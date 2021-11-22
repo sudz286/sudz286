@@ -4,7 +4,7 @@
 
 🔭 I’m currently building a Social Media Clone using React and NodeJS.
 <br />
-💬 I love all things music related - RnB, Hip-Hop, Alternate, Indie, Hindustani Fusion.
+💬 I love all things music related - RnB, Hip-Hop, Alternate, Indie and Hindustani Fusion.
 <br />
 🌱 My fav artists are alt-J, Mac Miller, Kendrick Lamar, Holly Humberstone.
 <br />
