@@ -1,7 +1,8 @@
 
 # Sudharsan Janardhanan
 
-### Actively pursuing a SWE Internship for Summer 23'. Open to relocation in 🇺🇸.
+### Actively pursuing a SWE Internship for Summer 23'
+### Open to relocation 🇺🇸.
 
 
 
