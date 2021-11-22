@@ -6,6 +6,7 @@
 <br />
 
 😄 Pronouns: he/him
+<br />
 🔭 I’m currently building a Social Media Clone using React and NodeJS.
 <br />
 💬 I love all things music related - RnB, Hip-Hop, Alternate, Indie and Hindustani Fusion.
